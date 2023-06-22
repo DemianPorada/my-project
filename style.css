@@ -1,0 +1,38 @@
+/* ul,
+ p,
+ h1,
+ h2,
+ h3,
+ li {
+     list-style: none;
+     padding: 0;
+     margin: 0;
+ }
+
+a{
+    text-decoration: none;
+} */
+.item{
+   display: flex;
+}
+.title{
+    color: #fff;
+    border: pink 2px;
+}
+.text{
+    color: #fff;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+}
+.conteiner{
+  
+}
+.section{
+    display: flex;
+}
+.title2{
+    display: flex;
+    justify-content:center
+}

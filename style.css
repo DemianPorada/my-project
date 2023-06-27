@@ -18,21 +18,48 @@ a{
 .title{
     color: #fff;
     border: pink 2px;
+    width: 561px;
+    height: 170px;
+    font-family: inter;
+    font-size: 70px;
 }
 .text{
     color: #fff;
+    width: 570px;
+    height: 200px;
 }
 .list{
     display: flex;
     justify-content: space-around;
-}
-.conteiner{
-  
+    width: 558px;
 }
 .section{
     display: flex;
+    background-image: url(./photo_2022-06-05_13-14-26\ 1fon.jpg);
+    background-position: center;
 }
 .title2{
     display: flex;
     justify-content:center
+}
+.pos{
+    color: #fff;
+}
+.poq{
+    color: #fff;
+}
+.pow{
+    color: #fff;
+}
+.poe{
+    color: #fff;
+}
+.por{
+    color: #fff;
+}
+.button{
+    width: 207px;
+    font-family: inter;
+    font-size: 24px;
+    background-color: #B47B48;
 }

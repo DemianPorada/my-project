@@ -1,4 +1,10 @@
 /* Основа */
+h1,h2,h3,p,ul,a{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
 .item{
    display: flex;
 }
@@ -35,7 +41,8 @@
     font-family: inter;
     font-size: 64px;
     display: flex;
-    justify-content:center
+    justify-content:center;
+    margin: 0;
 }
 .pos{
     color: #fff;
@@ -84,6 +91,7 @@
     color: #fff;
     font-family: italiana;
     font-size: 64px;
+    margin: 0;
 }
 .item2{
     display: flex;
@@ -110,6 +118,7 @@ background: #202023;
     color: #fff;
     font-family: inter;
     font-size: 25.92px;
+    margin: 0;
 }
 .but{
     color: #fff;
@@ -135,6 +144,7 @@ background: #202023;
     font-family: italiana;
     font-size: 48px;
     color: #fff;
+    margin: 0;
 }
 .list3{
     display: flex;
@@ -160,9 +170,12 @@ background: #202023;
     font-family: italiana;
     font-size: 48px;
     color: #fff;
+    margin: 0;
 }
 .item5{
     color: #fff;
+    font-family: inter;
+    font-size: 24px;
 }
 .va{
     color: #fff;
@@ -175,6 +188,8 @@ background: #202023;
 }
 .item6{
     color: #fff;
+font-family: inter;
+font-size: 24px;
 }
 .fq{
     color: #fff;
@@ -187,4 +202,16 @@ background: #202023;
 }
 .fr{
     color: #fff;
+}
+.title-last{
+    font-size: 40px;
+}
+.item3.bakery{
+    background-image: url(/puff.png),url(/pngwingbk2.png),url(/klipartzbk1.png);
+    background-position: 0px 0px, 100px 100px, 0px 0px;
+    background-repeat: no-repeat;
+    width: 328px;
+    height: 229px;
+    border: 1px solid #fff
+    ;
 }

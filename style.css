@@ -18,6 +18,7 @@ button{
     height: 170px;
     font-family: inter;
     font-size: 70px;
+    margin-bottom: 22px;
 }
 .text{
     color: #fff;
@@ -25,11 +26,13 @@ button{
     height: 80px;
     font-family: inter;
     font-size: 14px;
+    margin-bottom: 33px;
 }
 .list{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     width: 558px;
+    margin-bottom: 71px;
 }
 .section{
     background-image: url(./photo_2022-06-05_13-14-26\ 1fon.jpg);
@@ -70,6 +73,8 @@ button{
     background-color: #B47B48;
     border-radius: 17px;
     color: #fff;
+    margin-bottom: 125px;
+    display: inline-block;
 }
 .list1{
     display: flex;
@@ -99,6 +104,10 @@ button{
 .item2{
     display: flex;
     background-color: #272727 ;
+    width: 310px;
+    height: 225px;
+    justify-content: center;
+    align-items: center;
 }
 .cooki3{
     background: #EBAD51;

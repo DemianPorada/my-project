@@ -49,6 +49,7 @@ button{
     display: flex;
     justify-content:center;
     margin: 0;
+    margin-bottom: 18px;
 }
 .pos{
     color: #fff;
@@ -92,7 +93,6 @@ button{
 .sect1on{
      background: #202023;
      background-position: center;
-     width: 1440px;
      height: 775px;
 }
 .title3{
@@ -150,12 +150,18 @@ background: #202023;
 }
 .section3{
     background-image: url(./photo_2022-06-23_21-45-36\ 1fonx.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 .last-title{
     font-family: italiana;
     font-size: 48px;
     color: #fff;
-    margin: 0;
+    width: 735px;
+    margin-bottom: 132px;
 }
 .list3{
     display: flex;
@@ -176,6 +182,8 @@ background: #202023;
 }
 .section4{
     background-color: #202023;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 .where{
     font-family: italiana;
@@ -204,18 +212,26 @@ font-size: 24px;
 }
 .fq{
     color: #fff;
+    display: inline-block;
+    margin-bottom: 41px;
 }
 .fw{
     color: #fff;
+    display: inline-block;
+    margin-bottom: 41px;
 }
 .fe{
     color: #fff;
+    display: inline-block;
+    margin-bottom: 41px;
 }
 .fr{
     color: #fff;
+ 
 }
 .title-last{
     font-size: 40px;
+    width: 322px;
 }
 .item3.bakery{
     background-image: url(/puff.png),url(/pngwingbk2.png),url(/klipartzbk1.png);
@@ -265,4 +281,23 @@ font-size: 24px;
 .list-now2{
     display: flex;
     justify-content: space-between;  
+}
+.list4{
+    display: flex;
+}
+.container-last{
+    width: 200px;
+}
+.dav{
+    background-color: #F2F2F24D;
+    width: 250px;
+    height: 200.48px;
+}
+.list-cooki{
+    display: flex;
+    justify-content: space-between;
+}
+.footer2{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }

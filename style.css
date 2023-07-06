@@ -237,15 +237,7 @@ font-size: 24px;
     font-size: 40px;
     width: 322px;
 }
-.item3.bakery{
-    background-image: url(./puff.png),url(./pngwingbk2.png),url(./klipartzbk1.png);
-    background-position: 0px 0px, 100px 100px, 0px 0px;
-    background-repeat: no-repeat;
-    width: 328px;
-    height: 229px;
-    border: 1px solid #fff
-    ;
-}
+
 .list-super{
     display: flex;
     justify-content: space-between;
@@ -256,27 +248,6 @@ font-size: 24px;
     width: 1100px;
     margin-left: auto;
     margin-right: auto;
-}
-.item3.bread{
-    background-image:url(./bread-mart-bread-with-no-background-1558851\ 1MENU.png);
-    background-repeat: no-repeat;
-    width: 328px;
-    height: 229px;
-    border: 1px solid #fff
-}
-.item3.capcakes{
-    background-image: url(./pngwing\ 2кесик.png), url(./pngwing\ 3печивр.png);
-    background-repeat: no-repeat;
-    width: 328px;
-    height: 229px;
-    border: 1px solid #fff
-}
-.item3.last-cooki{
-    background-image: url(./кренделі.png), url(./шоколадне.png);
-    background-repeat: no-repeat;
-    width: 328px;
-    height: 229px;
-    border: 1px solid #fff
 }
 .list-now1{
     display: flex;
